@@ -1,3 +1,7 @@
+# Guess the color if you can
+
+Click of the three buttons to guess the color
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

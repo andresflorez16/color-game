@@ -1,5 +1,7 @@
 {
   "name": "color-game",
+  "author": "andres florez",
+  "description": "Guess the color",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
